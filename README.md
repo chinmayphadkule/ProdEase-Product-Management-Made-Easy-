@@ -43,7 +43,7 @@ CREATE TABLE Product (
 ### Running the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/chinmayphadkule/ProductManagementSystem.git
+   git clone https://github.com/chinmayphadkule/ProdEase-Product-Management-Made-Easy-.git
    ```
 2. Open the project in Visual Studio.
 3. Update the connection string in `Form1.cs` if necessary.
